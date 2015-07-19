@@ -27,5 +27,6 @@
 
     <gap:plugin name="org.apache.cordova.network-information" version="0.2.12" />
     <gap:plugin name="nl.x-services.plugins.socialsharing" source="plugins.cordova.io" />
-    <gap:plugin name="com.google.cordova.admob" version="2.5.0" source="plugins.cordova.io" />
+    <gap:plugin name="com.admob.plugin" version="3.0.0" source="plugins.cordova.io"/>
+    
 </widget>
